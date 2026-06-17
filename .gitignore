@@ -25,3 +25,8 @@ dist-ssr
 
 # Media
 *.mp4
+
+# Environment variables
+.env
+.env.*
+
