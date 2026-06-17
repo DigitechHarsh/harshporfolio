@@ -53,10 +53,10 @@ const aiAds = [
   },
   {
     id: 'ad-8',
-    title: 'Cyber Interface Promo',
-    category: 'Product Teaser',
+    title: 'Margherita Pizza',
+    category: 'Food Commercial',
     src: 'https://res.cloudinary.com/diuf2sexc/video/upload/v1781686814/portfolio/AI%20Ads/AQOcyBCziFQoYiRZakaEtw0Gh-TW9OUTmawq0Tg3Rc-7xrUtGJVQJHndtCwltMdFxX9ysfuyXxjYuTHuKvGSiHVPgZO_XZ3t71l4QhM.mp4',
-    description: 'A holographic user interface product commercial featuring neon wireframes and complex motion design.',
+    description: 'Delectable AI-generated food commercial featuring slow-motion cheese pulls, bubbling hot crust, and fresh basil garnishing.',
   },
   {
     id: 'ad-9',
